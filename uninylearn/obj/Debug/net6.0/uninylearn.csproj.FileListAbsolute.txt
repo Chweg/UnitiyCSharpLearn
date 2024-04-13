@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\uninylearn\obj\Debug\net6.0\uninylearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\uninylearn\obj\Debug\net6.0\uninylearn.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\uninylearn\obj\Debug\net6.0\uninylearn.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\uninylearn\obj\Debug\net6.0\uninylearn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\uninylearn\bin\Debug\net6.0\uninylearn.exe
+C:\Users\Administrator\Desktop\uninylearn\bin\Debug\net6.0\uninylearn.deps.json
+C:\Users\Administrator\Desktop\uninylearn\bin\Debug\net6.0\uninylearn.runtimeconfig.json
+C:\Users\Administrator\Desktop\uninylearn\bin\Debug\net6.0\uninylearn.dll
+C:\Users\Administrator\Desktop\uninylearn\bin\Debug\net6.0\uninylearn.pdb
+C:\Users\Administrator\Desktop\uninylearn\obj\Debug\net6.0\uninylearn.dll
+C:\Users\Administrator\Desktop\uninylearn\obj\Debug\net6.0\refint\uninylearn.dll
+C:\Users\Administrator\Desktop\uninylearn\obj\Debug\net6.0\uninylearn.pdb
+C:\Users\Administrator\Desktop\uninylearn\obj\Debug\net6.0\uninylearn.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\uninylearn\obj\Debug\net6.0\ref\uninylearn.dll
